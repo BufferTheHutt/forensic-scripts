@@ -43,8 +43,8 @@ brew install exiftool       # macOS
 ## 🚀 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/BufferTheHutt/forensic-scripts.git
+   cd forensic-scripts
    ```
 2. Make the scripts executable:
    ```sh
@@ -60,4 +60,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ---
 
 ## 📧 Contact
-For any issues or contributions, feel free to open an issue or contact via [GitHub](https://github.com/your-username/your-repo/issues).
+For any issues or contributions, feel free to open an issue or contact via [GitHub](https://github.com/BufferTheHutt/forensic-scripts/issues).
