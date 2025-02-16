@@ -1,4 +1,4 @@
-# ExifTool Forensic Scripts
+# Forensic Scripts
 
 This repository contains two forensic **Bash scripts** that utilize **ExifTool** to analyze and manipulate metadata in image files. These scripts are useful for forensic investigations and metadata sanitization.
 
